@@ -25,6 +25,13 @@ This API was built using Node.js, Expess.js, Knex.js, and PostgresSQL.
 - `GET /theaters`
 # 2.0 How to Use
 Feel free to incorporate this API in your full stack project! Also, feel free to fork and make edits.
+1. Clone repo
+2. ```npm install``` to install depedencies
+3. Create a `.env` file
+4. Inside the `.env` file, set ```NODE_ENV``` to `development` or `production`. Then set ```DATABASE_URL``` to the url of your database
+5. Run ```knew migrate:latest``` and ```knex seed:run``` to migrate and seed
+6. Run ```npm install`` to run the API locally
+7. ENJOY!
 # 3.0 License 
 MIT License
 
