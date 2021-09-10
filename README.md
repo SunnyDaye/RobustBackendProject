@@ -8,6 +8,7 @@
  - [2.0 How to Use](#20-How-to-Use)
  - [3.0 License](#30-License)
 # 1.0 Overview
+Check out the live API [here](https://welovemovies-api.herokuapp.com/)!
 ## 1.1 Description
 WeLoveMovies is a RESTful API that provides data on movies, theaters, and reviews. See [Features](#13-Features) for details.
 ## 1.2 Technologies
